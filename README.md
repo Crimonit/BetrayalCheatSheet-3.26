@@ -1,3 +1,7 @@
+Description copied from source, this fork is still in the works.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [Cheat Sheet](https://poetools.github.io/BetrayalCheatSheet)
